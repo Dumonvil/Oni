@@ -68,6 +68,8 @@ https://imgur.com/Q0fOCDV</br>
 https://imgur.com/BZf0G9V
 ## Schema 
 
+https://imgur.com/5Vko1RU
+https://imgur.com/vidgif/video?url=https%3A%2F%2Fimgur.com%2F5Vko1RU
 ### Models
 Modèle: utilisateur
 
