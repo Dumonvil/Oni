@@ -54,6 +54,7 @@ traits.
 
 ## Wireframes
 
+https://www.figma.com/file/3NOrTgWc1GJiChYcFtpRxC/Untitled?node-id=0%3A1
 ## Schema 
 
 ### Models
