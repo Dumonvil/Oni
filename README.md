@@ -69,7 +69,7 @@ https://imgur.com/BZf0G9V
 ## Schema 
 
 https://imgur.com/5Vko1RU </br>
-https://imgur.com/vidgif/video?url=https%3A%2F%2Fimgur.com%2F5Vko1RU
+<img src=https://imgur.com/vidgif/video?url=https%3A%2F%2Fimgur.com%2F5Vko1RU />
 ### Models
 Modèle: utilisateur
 
