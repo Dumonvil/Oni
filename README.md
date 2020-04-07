@@ -60,7 +60,7 @@ https://www.figma.com/file/3NOrTgWc1GJiChYcFtpRxC/Untitled?node-id=0%3A1 </br>
 [BONUS] Digital Wireframes & Mockups 
 https://imgur.com/a/ieaIYYf
 
-Prototype
+Prototype </br>
 https://imgur.com/shRsFCQ </br>
 https://imgur.com/Opd6aVu</br>
 https://imgur.com/IfnO9EE
