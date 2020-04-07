@@ -54,7 +54,18 @@ traits.
 
 ## Wireframes
 
-https://www.figma.com/file/3NOrTgWc1GJiChYcFtpRxC/Untitled?node-id=0%3A1
+https://www.figma.com/file/3NOrTgWc1GJiChYcFtpRxC/Untitled?node-id=0%3A1 </br>
+
+
+[BONUS] Digital Wireframes & Mockups 
+https://imgur.com/a/ieaIYYf
+
+Prototype
+https://imgur.com/shRsFCQ
+https://imgur.com/Opd6aVu
+https://imgur.com/IfnO9EE
+https://imgur.com/Q0fOCDV
+https://imgur.com/BZf0G9V
 ## Schema 
 
 ### Models
