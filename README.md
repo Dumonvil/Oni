@@ -61,10 +61,10 @@ https://www.figma.com/file/3NOrTgWc1GJiChYcFtpRxC/Untitled?node-id=0%3A1 </br>
 https://imgur.com/a/ieaIYYf
 
 Prototype
-https://imgur.com/shRsFCQ
-https://imgur.com/Opd6aVu
+https://imgur.com/shRsFCQ </br>
+https://imgur.com/Opd6aVu</br>
 https://imgur.com/IfnO9EE
-https://imgur.com/Q0fOCDV
+https://imgur.com/Q0fOCDV</br>
 https://imgur.com/BZf0G9V
 ## Schema 
 
