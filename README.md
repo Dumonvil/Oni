@@ -15,9 +15,9 @@
 - **Mobile:** Cette application serait développée pour mobile, web mais pourrait être tout aussi viable sur ordinateur.
 La fonctionnalité ne serait pas limitée aux appareils mobiles, mais la version mobile pourrait potentiellement avoir plus
 traits.
-- **Story:** Oniregist est une application qui vous permet d envoyer des donnees sur votre téléphone Android 
-- **Market:** les operateurs peuvent utiliser lors des rapports de fin de journée des élections à ce moment peut utiliser cette application.
-- **Habit:** Cette application devrait être utilisée lorsqu on fait des registres de donnée.
+- **Story:** Oniregist est une application qui vous permet d'envoyer des données sur votre téléphone Android 
+- **Market:** les opérateurs peuvent utiliser lors des rapports de fin de journée des élections à ce moment peut utiliser cette application.
+- **Habit:** Cette application devrait être utilisée lorsqu'on fait des registres de donnée.
 - **Scope:** Cette application permettra aux opérateurs d'avoir une confiance claire que ceux qui sont dans les registres sont vraiment bons pour gérer leur temps
 
 ## Product Spec
@@ -26,14 +26,13 @@ traits.
 **Histoires incontournables requises**
 
 - L'utilisateur peut se connecter avec l'identifiant et le prénom
-- [x] Utilisé pourra sélectionner le departement et la commune appropriée
+- [x] Les utilisateurs pourront sélectionner le departement et la commune appropriée
 - [x] Les utilisateurs pourront voir toutes les informations à ce sujet une fois connectés
 - [ ] Les utilisateurs pourront voir la somme des données enregistrésUser can login with id and firstname
 
 ** Histoires agréables à avoir en option **
 
-- [] Les utilisateurs peuvent rechercher chaque chaque departement 
-     et chaque commune appropriée
+- [] Les utilisateurs peuvent rechercher chaque departement et chaque commune appropriée
 - [] L'utilisateur peut se déconnecter
 
 ### 2. Screen Archetypes
@@ -43,7 +42,7 @@ traits.
 
 * Écran de sélection des departements et des communes
    * Les utilisateurs peuvent enregistrés les données
-   * Les utilisateurs peuvent voir la somme des donnée inscrits
+   * Les utilisateurs peuvent voir la somme des données inscrits
 
 ### 3. Utilisateur de navigation
 
@@ -69,7 +68,7 @@ https://imgur.com/BZf0G9V
 ## Schema 
 
 https://imgur.com/5Vko1RU </br>
- https://imgur.com/vidgif/video?url=https%3A%2F%2Fimgur.com%2F5Vko1RU 
+https://imgur.com/vidgif/video?url=https%3A%2F%2Fimgur.com%2F5Vko1RU 
 ### Models
 Modèle: utilisateur
 
@@ -105,8 +104,6 @@ Modèle: Commune
    * (Read / GET) Requête pour se connecter avec l'ID utilisateur.
 
 * Écran de sélection des departements et des communes
- 
-
 * Détail
    * (Lire / OBTENIR) Requête pour afficher les détails de chaque commune sélectionné avant  
 * Post-détail
