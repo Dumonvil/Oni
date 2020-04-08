@@ -56,7 +56,7 @@ traits.
 https://www.figma.com/file/3NOrTgWc1GJiChYcFtpRxC/Untitled?node-id=0%3A1 </br>
 
 
-[BONUS] Digital Wireframes & Mockups 
+[BONUS] Digital Wireframes & Mockups </br>
 https://imgur.com/a/ieaIYYf
 
 Prototype </br>
